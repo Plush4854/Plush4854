@@ -8,7 +8,7 @@
 
 ## About me
 
-- 🌱 I am a CS student studying, image processing, web development, system programming. 🤣
+- 🌱 I am a CS student studying image processing, web development, system programming. 
 - 🥅 In my spare time, I like making games!
 - 👯 I like eating ice cream.
 - 🥅 2024 Goals: Graduate?
