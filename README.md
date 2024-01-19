@@ -13,3 +13,8 @@
 - 👯 I like eating ice cream.
 - 🥅 2024 Goals: Graduate?
 - ⚡ Fun fact: I like swimming.
+
+## Art of my copilot (the dog) and me (the cat)
+The artwork is better than the code
+
+![](https://pbs.twimg.com/media/FtMXmizacAAcAPU?format=jpg&name=4096x4096)
