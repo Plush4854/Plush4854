@@ -1,4 +1,4 @@
-### Hi there, I'm Plush4854 - aka Plush4854 👋
+### WASSUP BOIS 👋
 
 ![](https://komarev.com/ghpvc/?username=Plush4854)
 
