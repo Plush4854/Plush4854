@@ -5,7 +5,7 @@
 UNSW CS grad making games, software, and UI/UX for all.
 
 ### Main Expertise
-▶️ Comfort language: C, C#, GDScript, Java, TS, JS, Java, Dart, MIPS Assembly
+▶️ Comfort language: C, C#, GDScript, Java, TS, JS, Java, Dart, MIPS Assembly<br>
 ▶️ WebApps, Mobile Apps, Websites, CRMs, Business Tools, Local model development, Machine Learning, Computer Vision
 
 ### Recent Projects (for jobs omg) 😵‍💫
