@@ -4,6 +4,10 @@
 
 UNSW CS grad making games, software, and UI/UX for all.
 
+### Main Expertise
+▶️ Comfort language: C, C#, GDScript, Java, TS, JS, Java, Dart, MIPS Assembly
+▶️ WebApps, Mobile Apps, Websites, CRMs, Business Tools, Local model development, Machine Learning, Computer Vision
+
 ### Recent Projects (for jobs omg) 😵‍💫
 
 ▶️ B2B CRM: https://app.orvex.live/<br>
