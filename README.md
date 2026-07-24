@@ -12,7 +12,9 @@ UNSW CS grad making games, software, and UI/UX for all.
 
 ▶️ B2B CRM: https://app.orvex.live/<br>
 ▶️ AI Auto Marker: https://www.gradeiq.org/<br>
-▶️ B2B SaaS: https://block852.com/
+▶️ B2B SaaS: https://block852.com/<br>
+
+All art (ie design, UIUX, music etc) that I produce will NEVER have Gen AI.<br>
 
 ## Art of my copilot (the dog) and me (the cat)
 
