@@ -10,7 +10,7 @@ UNSW CS grad making games, software, and UI/UX for all.
 
 ### Recent Projects (for jobs omg) 😵‍💫
 
-▶️ B2B CRM: https://app.orvex.live/<br>
+▶️ B2B CRM: https://www.johncrm.com/<br>
 ▶️ AI Auto Marker: https://www.gradeiq.org/<br>
 ▶️ B2B SaaS: https://block852.com/<br>
 
