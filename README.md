@@ -12,7 +12,7 @@ UNSW CS grad making games, software, and UI/UX for all.
 
 ▶️ B2B CRM: https://www.johncrm.com/<br>
 ▶️ AI Auto Marker: https://www.gradeiq.org/<br>
-▶️ B2B SaaS: https://block852.com/<br>
+▶️ Software Solutions: http://www.hkboss.com.hk/<br>
 
 All art (eg design, UIUX, music etc) that I produce will NEVER have Gen AI. I am only using it for work so I don't get fired<br>
 
